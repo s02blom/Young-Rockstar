@@ -11,7 +11,10 @@ TODO: Add explenation to transpiler python
 
 ### Build
 
-TODO: Run the transpiler
+When building your program you want to use the command:
+```
+rockstar-py -i YOUR-PROGRAM.rock, -o out.py
+```
 
 ### Run
 
