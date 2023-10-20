@@ -18,7 +18,10 @@ rockstar-py -i YOUR-PROGRAM.rock, -o out.py
 
 ### Run
 
-TODO: Add explanation about how to run the code
+Run your `out.py` file however you want. We recommend typing this command:
+´´´
+py out.py
+´´´
 
 ## License
 
