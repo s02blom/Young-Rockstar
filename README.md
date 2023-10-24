@@ -1,7 +1,7 @@
 # Young Rockstar
 
 ## Introduction 
-Intended to explore the basics of the esoteric programing language [Rockstar](https://github.com/RockstarLang/rockstar)
+Intended to explore the basics of the esoteric programing language [Rockstar](https://github.com/RockstarLang/rockstar). Here is the [specs](https://github.com/RockstarLang/rockstar/blob/main/spec.md) on Github. 
 
 ## How to use
 
