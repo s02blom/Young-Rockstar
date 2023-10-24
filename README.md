@@ -7,8 +7,10 @@ Intended to explore the basics of the esoteric programing language [Rockstar](ht
 
 ### Prerequisites
 
-TODO: Add explenation to transpiler python
-Link to [transpiler](https://github.com/yyyyyyyan/rockstar-py)
+We have elected to use the Rockstar-Python transpiler found [here](https://github.com/yyyyyyyan/rockstar-py). Exact download instructions can be found on the page, however we used the command
+```
+pip install rockstar-py
+```
 
 ### Build
 
